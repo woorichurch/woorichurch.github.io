@@ -2,12 +2,12 @@
 #
 
 # Site settings
-title: 분당우리교회 초등부
+title: 분당우리교회
 description: |
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
-owner: 분당우리교회 # or company name
+owner: 분당우리교회 초등부 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: woorijesus@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
